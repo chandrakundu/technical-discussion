@@ -6,3 +6,5 @@ Demo gist code: [Here](https://gist.github.com/chandrakundu/c3c8c13e262f7aef92bc
 
 # Images
 ![image](https://github.com/chandrakundu/technical-discussion/assets/5290093/76138a29-2e45-45e7-81e2-44babc9552e0)
+
+[![Python and Github actions](https://github.com/chandrakundu/technical-discussion/actions/workflows/main.yml/badge.svg)](https://github.com/chandrakundu/technical-discussion/actions/workflows/main.yml)
